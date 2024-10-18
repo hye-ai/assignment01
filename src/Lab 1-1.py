@@ -1,5 +1,4 @@
 # Selection sorting (최소값 중심 정리)
-
 def selectionSort(list):
 
     # Traverse through all array elements
