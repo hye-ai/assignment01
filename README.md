@@ -29,4 +29,4 @@
 <hr/>
 
 ### 제작 계기
-다양한 사례들을 통해 문제점을 파악하였다. [암표 시장을 막아야 하는 이유](https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202410110134&t=NN)를 참고하세요.
+다양한 사례들을 통해 문제점을 파악하였다. [암표 시장을 막아야 하는 이유](https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202410110134&t=NN) 참고.
